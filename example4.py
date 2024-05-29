@@ -16,7 +16,7 @@ window.geometry("200x400")
 
 
 
-dogphoto = PhotoImage(file="dog.png")
+dogphoto = PhotoImage(file="logo.png")
 label2 = tk.Label(window, image=dogphoto)
 
 lable3 = tk.Label(window, text="Note that an image can be in a label or a button!", borderwidth=4, relief=SUNKEN)
