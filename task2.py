@@ -10,7 +10,7 @@ window.geometry("550x480")
 logo = tk.PhotoImage(window, file="logo.png")
 main = tk.PhotoImage(window, file="Main.png")
 minimap = tk.PhotoImage(window, file="minimap.png")
-label1 = 
+buttonL1 = tk.button(window, ) 
 
 
 
